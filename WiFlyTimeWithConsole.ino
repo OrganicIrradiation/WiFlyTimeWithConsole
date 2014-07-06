@@ -1,6 +1,6 @@
 /*
 
-  .ino
+  WiFlyTimeWithConsole.ino
   http://www.semifluid.com
   
   Based upon httpclient.ino from:
